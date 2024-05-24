@@ -87,4 +87,4 @@ npm start
 
 ## Deployement
 
-You can also check out the deployed version at [here](https://real-estate-kj91.onrender.com/)
+You can also check out the deployed version at [Real Estate](https://real-estate-kj91.onrender.com/)
